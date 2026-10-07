@@ -44,9 +44,10 @@ This allows users to compare apartments based on their individual requirements.
 - JavaScript
 - Git & GitHub
 
-## 🚀 Getting Started
+© 2026 Priya Pushp. All rights reserved.
+This repository is published for portfolio and demonstration purposes. Please do not reproduce or redistribute the source code without permission.
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/privia-ai.git
+git clone https://github.com/priya28-pushp/privia-ai.git
